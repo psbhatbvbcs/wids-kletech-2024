@@ -38,8 +38,13 @@ const About = () => {
           problems.
         </p>
       </div>
-      <div className="w-full md:w-1/2 p-4 md:p-10 flex items-center justify-center">
-        <img src="/Event-Hero-Image.jpg" className="h-[300px] rounded-lg" />
+      <div className="w-full md:w-1/2 p-4 md:p-10 flex flex-col items-center justify-center">
+        <div className="font-medium text-lg underline">Updates</div>
+        <img
+          src="/Event-Hero-Image.jpg"
+          className="h-[300px] rounded-lg absolute opacity-30"
+        />
+        <div className="font-normal">Coming soon!</div>
       </div>
     </div>
   );
