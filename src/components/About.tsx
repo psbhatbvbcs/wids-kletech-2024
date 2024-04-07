@@ -38,7 +38,7 @@ const About = () => {
           problems.
         </p>
       </div>
-      <div className="w-full md:w-1/2 p-4 md:p-10 flex flex-col items-center justify-center">
+      <div className="w-full md:w-1/2 p-4 md:p-10 flex flex-col items-center justify-center h-[300px] mb-3">
         <div className="font-medium text-2xl underline">Updates</div>
         <img
           src="/Event-Hero-Image.jpg"
