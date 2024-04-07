@@ -59,7 +59,7 @@ const Committee = () => {
               />
               <p className="text-xl font-medium">Ms. Srujana K</p>
               <p className="font-normal mb-0 md:mb-4">
-                Senior Director, Walmart Global Tech
+                AI Leader at Walmart Global Tech, USA
               </p>
             </div>
           </div>
@@ -75,7 +75,7 @@ const Committee = () => {
               className="w-[150px] h-[150px] rounded-full m-5"
             />
             <p className="text-xl font-medium">Dr. Meena S. M</p>
-            <p className="font-normal mb-4">Dean, Faculty, SoCSE</p>
+            <p className="font-normal mb-4">Dean Faculty, SoCSE</p>
           </div>
         </div>
         <div className="flex w-full md:w-2/3 justify-center flex-col">
@@ -90,7 +90,7 @@ const Committee = () => {
                 className="w-[150px] h-[150px] rounded-full m-5"
               />
               <p className="text-xl font-medium">Dr. Sujatha C</p>
-              <p className="font-normal mb-0 md:mb-4">Professor</p>
+              <p className="font-normal mb-0 md:mb-4">Professor, SoCSE</p>
             </div>
             <div className="flex flex-col items-center justify-center max-w-[500px] text-center m-5 md:m-0">
               <img
@@ -99,7 +99,7 @@ const Committee = () => {
                 className="w-[150px] h-[150px] rounded-full m-5"
               />
               <p className="text-xl font-medium">Dr. Padmashree Desai</p>
-              <p className="font-normal mb-0 md:mb-4">Professor</p>
+              <p className="font-normal mb-0 md:mb-4">Professor, SoCSE</p>
             </div>
           </div>
         </div>
@@ -109,10 +109,12 @@ const Committee = () => {
           Organizers
         </p>
         <div className="flex justify-center gap-3 md:gap-8 flex-col md:flex-row text-center">
-          <p className="text-xl font-medium">Dr. P.G Sunitha Hiremath</p>
-          <p className="text-xl font-medium">Prof. Neha Tarannum</p>
-          <p className="text-xl font-medium">Prof. Sneha V</p>
-          <p className="text-xl font-medium">Prof. Tulasa B</p>
+          <p className="text-xl font-medium">
+            Prof. Dr. P.G Sunitha Hiremath, SoCSE
+          </p>
+          <p className="text-xl font-medium">Prof. Neha Tarannum, SoCSE</p>
+          <p className="text-xl font-medium">Prof. Sneha V, SoCSE</p>
+          <p className="text-xl font-medium">Prof. Tulasa B, SoCSE</p>
         </div>
       </div>
     </div>
