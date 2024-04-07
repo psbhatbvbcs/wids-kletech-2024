@@ -39,7 +39,7 @@ const About = () => {
         </p>
       </div>
       <div className="w-full md:w-1/2 p-4 md:p-10 flex flex-col items-center justify-center">
-        <div className="font-medium text-lg underline">Updates</div>
+        <div className="font-medium text-2xl underline">Updates</div>
         <img
           src="/Event-Hero-Image.jpg"
           className="h-[300px] rounded-lg absolute opacity-30"
