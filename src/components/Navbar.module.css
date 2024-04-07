@@ -1,0 +1,36 @@
+.linkUnderline {
+  position: relative;
+  padding-bottom: 5px;
+}
+
+@media (min-width: 640px) {
+  .linkUnderline::after {
+    content: "";
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    height: 5px;
+    width: 100%;
+    background-color: var(--underline-color);
+    transform-origin: left;
+    transition: transform 0.3s ease-in-out;
+  }
+
+  .linkUnderline:hover::after {
+    transform: scaleX(1);
+    animation: blink 800ms infinite;
+  }
+}
+
+@keyframes blink {
+  0% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0;
+    width: 50%;
+  }
+  100% {
+    opacity: 1;
+  }
+}

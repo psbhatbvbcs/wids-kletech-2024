@@ -1,0 +1,7 @@
+.member-container {
+  transition: box-shadow 0.3s ease; /* Add transition for smooth effect */
+}
+
+.member-container:hover {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2); /* Apply shadow on hover */
+}
