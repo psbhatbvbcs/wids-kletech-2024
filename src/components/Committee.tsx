@@ -115,6 +115,7 @@ const Committee = () => {
           <p className="text-xl font-medium">Prof. Neha Tarannum, SoCSE</p>
           <p className="text-xl font-medium">Prof. Sneha V, SoCSE</p>
           <p className="text-xl font-medium">Prof. Tulasa B, SoCSE</p>
+          <p className="text-xl font-medium">Prof. Shilpa Hotagi, SoCSE</p>
         </div>
       </div>
     </div>
