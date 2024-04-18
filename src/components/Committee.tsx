@@ -66,7 +66,7 @@ const Committee = () => {
         </div>
       </div>
       <div className="w-full p-1 md:p-16 flex items-center justify-center gap-6 flex-col md:flex-row">
-        <div className="w-full md:w-1/3 flex justify-center">
+        <div className="w-full md:w-1/3 flex justify-center gap-8 md:flex-row flex-col">
           <div className="flex flex-col items-center justify-center max-w-[500px] text-center m-5 md:m-0 member-container">
             <p className="text-xl font-medium">WiDS Ambassador</p>
             <img
@@ -76,6 +76,16 @@ const Committee = () => {
             />
             <p className="text-xl font-medium">Dr. Meena S. M</p>
             <p className="font-normal mb-4">Dean Faculty, SoCSE</p>
+          </div>
+          <div className="flex flex-col items-center justify-center max-w-[500px] text-center m-5 md:m-0 member-container">
+            <p className="text-xl font-medium">‎</p>
+            <img
+              src="/hod-vijaylakshmi-1.jpeg"
+              alt="Dr. Padmashree Desai"
+              className="w-[150px] h-[150px] rounded-full m-5"
+            />
+            <p className="text-xl font-medium">Dr. Vijayalakshmi M</p>
+            <p className="font-normal mb-0 md:mb-4">Head of School, SoCSE</p>
           </div>
         </div>
         <div className="flex w-full md:w-2/3 justify-center flex-col">
@@ -101,21 +111,6 @@ const Committee = () => {
               <p className="text-xl font-medium">Dr. Padmashree Desai</p>
               <p className="font-normal mb-0 md:mb-4">Professor, SoCSE</p>
             </div>
-          </div>
-        </div>
-      </div>
-      <div className="flex w-full md:w-2/3 justify-center flex-col">
-        <div className="flex justify-center gap-3 md:gap-8 flex-col md:flex-row">
-          <div className="flex flex-col items-center justify-center max-w-[500px] text-center m-5 md:m-0">
-            <img
-              src="/hod-vijaylakshmi.jpeg"
-              alt="Dr. Padmashree Desai"
-              className="w-[150px] h-[150px] rounded-full m-5"
-            />
-            <p className="text-xl font-medium">Dr. Vijayalakshmi M</p>
-            <p className="font-normal mb-0 md:mb-4">
-              Head of Department, SoCSE
-            </p>
           </div>
         </div>
       </div>
