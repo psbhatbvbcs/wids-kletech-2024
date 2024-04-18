@@ -104,6 +104,21 @@ const Committee = () => {
           </div>
         </div>
       </div>
+      <div className="flex w-full md:w-2/3 justify-center flex-col">
+        <div className="flex justify-center gap-3 md:gap-8 flex-col md:flex-row">
+          <div className="flex flex-col items-center justify-center max-w-[500px] text-center m-5 md:m-0">
+            <img
+              src="/hod-vijaylakshmi.jpeg"
+              alt="Dr. Padmashree Desai"
+              className="w-[150px] h-[150px] rounded-full m-5"
+            />
+            <p className="text-xl font-medium">Dr. Vijayalakshmi M</p>
+            <p className="font-normal mb-0 md:mb-4">
+              Head of Department, SoCSE
+            </p>
+          </div>
+        </div>
+      </div>
       <div className="flex w-full justify-center flex-col mb-10">
         <p className="text-xl font-medium flex justify-center mb-5">
           Organizers
