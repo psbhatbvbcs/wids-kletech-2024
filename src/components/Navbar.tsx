@@ -21,7 +21,7 @@ const Navbar = () => {
         <img
           src="/nav-logo-wids.png"
           alt="wids logo"
-          className="w-44 md:w-72"
+          className="w-40 md:w-72"
         />
       </div>
       <div

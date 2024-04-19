@@ -120,12 +120,12 @@ const Committee = () => {
         </p>
         <div className="flex justify-center gap-3 md:gap-8 flex-col md:flex-row text-center">
           <p className="text-xl font-medium">
-            Prof. Dr. P.G Sunitha Hiremath, SoCSE
+            Dr. P. G Sunitha Hiremath
           </p>
-          <p className="text-xl font-medium">Prof. Neha Tarannum, SoCSE</p>
-          <p className="text-xl font-medium">Prof. Sneha V, SoCSE</p>
-          <p className="text-xl font-medium">Prof. Tulasa B, SoCSE</p>
-          <p className="text-xl font-medium">Prof. Shilpa Hotagi, SoCSE</p>
+          <p className="text-xl font-medium">Prof. Neha Tarannum</p>
+          <p className="text-xl font-medium">Prof. Sneha V</p>
+          <p className="text-xl font-medium">Prof. Tulasa B</p>
+          <p className="text-xl font-medium">Prof. Shilpa Hotagi</p>
         </div>
       </div>
     </div>
