@@ -80,9 +80,9 @@ const Committee = () => {
           <div className="flex flex-col items-center justify-center max-w-[500px] text-center m-5 md:m-0 member-container">
             <p className="text-xl font-medium">‎</p>
             <img
-              src="/hod-vijaylakshmi-1.jpeg"
-              alt="Dr. Padmashree Desai"
-              className="w-[150px] h-[150px] rounded-full m-5"
+              src="/hod-vijayalakshmi-1.jpg"
+              alt="Dr. Vijayalakshmi M"
+              className="w-[150px] h-[150px] rounded-full m-5 bg-cover"
             />
             <p className="text-xl font-medium">Dr. Vijayalakshmi M</p>
             <p className="font-normal mb-0 md:mb-4">Head of School, SoCSE</p>

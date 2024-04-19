@@ -19,9 +19,9 @@ const Navbar = () => {
     <nav className="flex items-center justify-between flex-wrap p-6">
       <div className="flex items-center flex-shrink-0 text-black">
         <img
-          src="/WiDS_logo_nav.png"
+          src="/nav-logo-wids.png"
           alt="wids logo"
-          className="w-36 md:w-48"
+          className="w-44 md:w-72"
         />
       </div>
       <div

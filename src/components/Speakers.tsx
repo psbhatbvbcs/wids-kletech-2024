@@ -3,7 +3,10 @@ import React from "react";
 
 const Speakers = () => {
   return (
-    <div className="w-full flex items-center justify-center flex-col" id="speakers">
+    <div
+      className="w-full flex items-center justify-center flex-col"
+      id="speakers"
+    >
       <div className="w-full bg-[#4AB969] text-3xl p-10 flex justify-center font-normal md:text-4xl">
         Speakers
       </div>
@@ -46,7 +49,7 @@ const Speakers = () => {
           />
           <p className="text-2xl font-medium">Ms Ashwini Chandrashekharaiah</p>
           <p className="font-normal mb-4">
-            Senior Manager, Data Science at Walmart Global Tech India
+            Senior Manager, Walmart Global Tech India
           </p>
           <p className="text-lg font-normal mb-4">
             {/* Building Next Gen AI & Machine Learning Enterprises, Futurist,
@@ -60,7 +63,8 @@ const Speakers = () => {
           </p>
           <p className="text-lg font-normal">
             <span className="font-semibold underline">Topic</span>: How to
-            attempt and ace the datathon: Equity in healthcare
+            attempt and ace the datathon: <br />
+            Equity in healthcare
           </p>
           <p className="text-lg font-normal">
             <span className="font-semibold underline">Time</span>: 9:30am to

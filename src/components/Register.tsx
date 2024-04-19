@@ -8,7 +8,9 @@ const Register = () => {
       className="flex flex-col justify-center items-center p-10 bg-gray-300 text-center"
     >
       <div className="text-2xl font-medium md:text-3xl mb-4">
-        Datathon Workshop 2024
+        WiDS Datathon Workshop 2024
+        <br />
+        <span className="text-sm">(ONLINE MODE)</span>
       </div>
       <div className="font-medium text-2xl mb-4">27th April 2024</div>
       <div className="font-medium text-xl mb-4">8:30 am to 11:30 am IST</div>
