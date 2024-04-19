@@ -11,7 +11,7 @@ const Speakers = () => {
         Speakers
       </div>
       <div className="w-full flex flex-col md:flex-row items-center justify-evenly p-10">
-        <div className="flex flex-col items-center justify-center max-w-[500px] text-center m-5 md:m-0">
+        <div className="flex flex-col items-center justify-center max-w-[500px] text-center">
           <img
             src="/srujana-speaker1.png"
             alt="srujana speaker 1"

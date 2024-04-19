@@ -17,11 +17,11 @@ const Committee = () => {
               alt="Patron Dr. Ashok Shettar"
               className="w-[150px] h-[150px] rounded-full m-5"
             />
-            <p className="text-xl font-medium">Dr. Ashok Shettar</p>
+            <p className="text-[18px] font-medium">Dr. Ashok Shettar</p>
             <p className="font-normal mb-4">Vice Chancellor</p>
           </div>
         </div>
-        <div className="flex w-full md:w-2/3 justify-center flex-col">
+        <div className="flex w-full md:w-2/3 justify-center flex-col items-center">
           <p className="text-xl font-medium flex justify-center">Advisors</p>
           <div className="flex justify-center gap-3 md:gap-8 flex-col md:flex-row">
             <div className="flex flex-col items-center justify-center max-w-[500px] text-center m-5 md:m-0">
@@ -30,7 +30,7 @@ const Committee = () => {
                 alt="Prof. B. L Desai"
                 className="w-[150px] h-[150px] rounded-full m-5"
               />
-              <p className="text-xl font-medium">Prof. B. L Desai</p>
+              <p className="text-[18px] font-medium">Prof. B. L Desai</p>
               <p className="font-normal mb-0 md:mb-4">Executive Dean</p>
             </div>
             <div className="flex flex-col items-center justify-center max-w-[500px] text-center m-5 md:m-0">
@@ -39,7 +39,7 @@ const Committee = () => {
                 alt="Prof. B. S Anami"
                 className="w-[150px] h-[150px] rounded-full m-5"
               />
-              <p className="text-xl font-medium">Prof. B. S Anami</p>
+              <p className="text-[18px] font-medium">Prof. B. S Anami</p>
               <p className="font-normal mb-0 md:mb-4">Registrar</p>
             </div>
             <div className="flex flex-col items-center justify-center max-w-[500px] text-center m-5 md:m-0">
@@ -48,7 +48,7 @@ const Committee = () => {
                 alt="Dr. Uma Mudenagudi"
                 className="w-[150px] h-[150px] rounded-full m-5"
               />
-              <p className="text-xl font-medium">Dr. Uma Mudenagudi</p>
+              <p className="text-[18px] font-medium">Dr. Uma Mudenagudi</p>
               <p className="font-normal mb-0 md:mb-4">Dean R&D</p>
             </div>
             <div className="flex flex-col items-center justify-center max-w-[500px] text-center m-5 md:m-0">
@@ -57,7 +57,7 @@ const Committee = () => {
                 alt="Ms. Srujana K"
                 className="w-[150px] h-[150px] rounded-full m-5"
               />
-              <p className="text-xl font-medium">Ms. Srujana K</p>
+              <p className="text-[18px] font-medium">Ms. Srujana K</p>
               <p className="font-normal mb-0 md:mb-4">
                 AI Leader at Walmart Global Tech, USA
               </p>
@@ -74,7 +74,7 @@ const Committee = () => {
               alt="Dr. Meena S. M"
               className="w-[150px] h-[150px] rounded-full m-5"
             />
-            <p className="text-xl font-medium">Dr. Meena S. M</p>
+            <p className="text-[18px] font-medium">Dr. Meena S. M</p>
             <p className="font-normal mb-4">Dean Faculty, SoCSE</p>
           </div>
           <div className="flex flex-col items-center justify-center max-w-[500px] text-center m-5 md:m-0 member-container">
@@ -84,7 +84,7 @@ const Committee = () => {
               alt="Dr. Vijayalakshmi M"
               className="w-[150px] h-[150px] rounded-full m-5 bg-cover"
             />
-            <p className="text-xl font-medium">Dr. Vijayalakshmi. M</p>
+            <p className="text-[18px] font-medium">Dr. Vijayalakshmi. M</p>
             <p className="font-normal mb-0 md:mb-4">HoS, SoCSE</p>
           </div>
         </div>
@@ -99,7 +99,7 @@ const Committee = () => {
                 alt="Dr. Sujatha C"
                 className="w-[150px] h-[150px] rounded-full m-5"
               />
-              <p className="text-xl font-medium">Dr. Sujatha C</p>
+              <p className="text-[18px] font-medium">Dr. Sujatha C</p>
               <p className="font-normal mb-0 md:mb-4">Professor, SoCSE</p>
             </div>
             <div className="flex flex-col items-center justify-center max-w-[500px] text-center m-5 md:m-0">
@@ -108,7 +108,7 @@ const Committee = () => {
                 alt="Dr. Padmashree Desai"
                 className="w-[150px] h-[150px] rounded-full m-5"
               />
-              <p className="text-xl font-medium">Dr. Padmashree Desai</p>
+              <p className="text-[18px] font-medium">Dr. Padmashree Desai</p>
               <p className="font-normal mb-0 md:mb-4">Professor, SoCSE</p>
             </div>
           </div>
@@ -119,9 +119,7 @@ const Committee = () => {
           Organizers
         </p>
         <div className="flex justify-center gap-3 md:gap-8 flex-col md:flex-row text-center">
-          <p className="text-xl font-medium">
-            Dr. P. G Sunitha Hiremath
-          </p>
+          <p className="text-xl font-medium">Dr. P. G Sunitha Hiremath</p>
           <p className="text-xl font-medium">Prof. Neha Tarannum</p>
           <p className="text-xl font-medium">Prof. Sneha V</p>
           <p className="text-xl font-medium">Prof. Tulasa B</p>
