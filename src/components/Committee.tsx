@@ -84,8 +84,8 @@ const Committee = () => {
               alt="Dr. Vijayalakshmi M"
               className="w-[150px] h-[150px] rounded-full m-5 bg-cover"
             />
-            <p className="text-xl font-medium">Dr. Vijayalakshmi M</p>
-            <p className="font-normal mb-0 md:mb-4">Head of School, SoCSE</p>
+            <p className="text-xl font-medium">Dr. Vijayalakshmi. M</p>
+            <p className="font-normal mb-0 md:mb-4">HoS, SoCSE</p>
           </div>
         </div>
         <div className="flex w-full md:w-2/3 justify-center flex-col">
